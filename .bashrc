@@ -49,8 +49,8 @@ alias conf='cd ~/.config/'
 alias bashrc='nvim ~/.bashrc'
 
 # Alias's for modified commands
-alias cp='cp -i'
-alias mv='mv -i'
+alias cp='cp -i' # makes interactive
+alias mv='mv -i' # makes interactive
 alias mkdir='mkdir -p'
 alias ps='ps auxf'
 
